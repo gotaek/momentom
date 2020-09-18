@@ -1,8 +1,12 @@
+body {
+  color: #34495e;
+}
+
 .form,
 .greetings {
   display: none;
 }
 
 .showing {
-  display: bolck;
+  display: block;
 }
